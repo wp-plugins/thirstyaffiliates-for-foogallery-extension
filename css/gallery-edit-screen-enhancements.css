@@ -1,0 +1,20 @@
+.afflink {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 6px;
+    margin-left: 30px;
+}
+
+.afflink_url {
+    display: none;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 148px;
+}
+
+li.attachment:hover .afflink, li.attachment:hover .afflink_url {
+    display: block;
+}
