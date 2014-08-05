@@ -11,7 +11,7 @@ if ( !class_exists( 'ThirstyAffiliatesForFooGallery_Init' ) ) {
 
 		function add_to_extensions_list( $extensions ) {
 			$extensions[] = array(
-				'slug'=> 'thirstyaffiliates-for-foogallery',
+				'slug'=> 'thirstyaffiliates-for-foogallery-extension',
 				'class'=> 'ThirstyAffiliatesForFooGallery',
 				'title'=> 'ThirstyAffiliates',
 				'description'=> 'Lets you create galleries of images that link to affiliate links (powered by ThirstyAffiliates)',

@@ -13,7 +13,7 @@
  * @wordpress-plugin
  * Plugin Name: ThirstyAffiliates For FooGallery
  * Description: Lets you create galleries of images that link to affiliate links (powered by ThirstyAffiliates)
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      ThirstyAffiliates
  * Author URI:  http://thirstyaffiliates.com
  * License:     GPL-2.0+
@@ -23,7 +23,7 @@
 if ( !class_exists( 'ThirstyAffiliatesForFooGallery' ) ) {
 
 	define('ThirstyAffiliates_For_FooGallery_URL', plugin_dir_url( __FILE__ ));
-	define('ThirstyAffiliates_For_FooGallery_VERSION', '1.0.0');
+	define('ThirstyAffiliates_For_FooGallery_VERSION', '1.0.1');
 
 	require_once( 'thirstyaffiliates-for-foogallery-init.php' );
 

@@ -55,6 +55,9 @@ Coming soon.
 
 == Changelog ==
 
+= 1.0.1 =
+* Bugfix: Updating slug to allow FooGallery to auto enable when activated
+
 = 1.0 =
 * Initial version
 
